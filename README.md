@@ -6,7 +6,7 @@ Hello! I am Yathartha Aarush, a first year student of PES University, studying i
 
 ## Projects
 
-[Prakriti] (https://github.com/Yathartha19/Prakriti)
+[Prakriti](https://github.com/Yathartha19/Prakriti)
 
 #### Contact
 
