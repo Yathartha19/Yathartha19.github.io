@@ -1,7 +1,19 @@
-# About Me
+# Yathartha's Portfolio
 
-# Experience
+Hello! I am Yathartha Aarush, a first year student of PES University, studying in the B.Tech program.
 
-# Projects
+<br>
 
-# Socials
+## Projects
+
+[Prakriti] (https://github.com/Yathartha19/Prakriti)
+
+#### Contact
+
+```dont contact me bro.```
+
+## Table
+
+COLUMN 1 |  COLUMN 2
+---------|-----------
+APPLE    |  BANANA
