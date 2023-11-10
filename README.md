@@ -10,7 +10,6 @@ Hello! I am Yathartha Aarush, a first year student of PES University, studying i
 
 #### Contact
 
-```dont contact me bro.```
 
 ## Table
 
